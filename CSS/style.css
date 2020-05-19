@@ -93,15 +93,21 @@ p {
   display: flex;
   background-color: cyan;
 }
-.glavni {
+.paragrafi-zanimljivosti {
   flex: 6;
 }
-.glavni h5 {
+.podparagrafi-zanimljivosti {
+  padding-bottom: 30rem;
+}
+.podparagrafi-zanimljivosti h5 {
   font-size: 2rem;
   padding: 1rem;
 }
-.glavni p {
+.podparagrafi-zanimljivosti p {
   padding: 1rem;
+}
+.dida-petar img {
+  padding: 2rem;
 }
 .bocni {
   flex: 1;
